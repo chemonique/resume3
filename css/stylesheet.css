@@ -7,8 +7,15 @@ body{
 header {
   background-color: #343330;
   text-align: center;
-
 }
+#heading{
+  font-family: sans-serif;
+  background-color: #343330;
+  color: white;
+}
+#sidebar {
+  width: 20%;
+  background-color: #45462A;}
 
 footer {
   background-color: #343330;
