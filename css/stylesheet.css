@@ -8,6 +8,12 @@ header {
   background-color: #343330;
   text-align: center;
 }
+#profilephoto{
+  width: 15%;
+  height:15%;
+  border-radius:50%;
+  border: 3px solid white;
+}
 #heading{
  
   background-color: #343330;
@@ -15,11 +21,17 @@ header {
 }
 #sidebar {
   width: 20%;
-  background-color: #45462A;}
+  background-color: #45462A;
+padding: 1rem;}
 .nav-menu{
   list-style-type: none;
+ padding: 0%;
 }
 footer {
   background-color: #343330;
   text-align: center;
+}
+.icons{
+  width: 3rem;
+  margin: 0.5rem;height: auto;
 }
