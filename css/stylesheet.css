@@ -2,11 +2,19 @@ body{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size:110%;
   background-color: #FCF7F8;
+  display:flex;
+  flex-direction: column;
+}
+.main{
+  display: flex;
+  flex-direction: row;
+  overflow: unset;
 }
 
 header {
   background-color: #343330;
   text-align: center;
+  justify-content: center;
 }
 #profilephoto{
   width: 15%;
