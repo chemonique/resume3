@@ -12,7 +12,7 @@ body{
 }
 
 header {
-  background-color: #343330;
+  background-color: rgba(166, 207, 127, 0.795);
   text-align: center;
   justify-content: center;
 }
@@ -24,19 +24,19 @@ header {
 }
 #heading{
  
-  background-color: #343330;
+  background-color: rgba(red, green, blue, alpha);
   color: white;
 }
 #sidebar {
   width: 20%;
-  background-color: #45462A;
+  background-color: #FB8F67;
 padding: 1rem;}
 .nav-menu{
   list-style-type: none;
  padding: 0%;
 }
 footer {
-  background-color: #343330;
+  background-color: #3f784c;
   text-align: center;
 }
 .icons{
